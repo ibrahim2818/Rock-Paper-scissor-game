@@ -27,7 +27,7 @@ while True:
     ---.__(___)
     '''
 
-    #Write your code below this line 👇
+   
     x=int(input('what do you choose? enter 0 for rock ,1 for paper or 0 for scissors\n'))
 
     if x==0:
